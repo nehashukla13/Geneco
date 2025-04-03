@@ -66,12 +66,8 @@ Geneco is an AI-driven waste management platform designed to streamline waste re
 ## Technologies Used
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: PostgreSQL
 - **AI Integration**: Google Gemini API
-- **Authentication**: JWT (JSON Web Tokens)
-- **Notifications**: Twilio (SMS), Nodemailer (Email)
-- **Deployment**: Docker, AWS
-
 ---
 
 ## Installation
